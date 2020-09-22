@@ -66,3 +66,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### `npm i bootstrap --save`
+
+To install bootstrap
+
+### `npm i reactstrap react-popper --save'
+
+To install reactstrap and popper and to use react implementation of bootstrap component
